@@ -21,7 +21,9 @@ This project contains Python scripts to extract tables from PDF files and save t
 2.  Update the `PDF_FILENAME` variable in the script you want to run.
 
 ---
+### Run with pdf plumber or camelot
 
-### Run with Camelot
 ```bash
+python pdfplumber_tab.py
 python camelot_tab.py
+
